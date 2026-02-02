@@ -62,4 +62,7 @@ The slider located at the top of the "Camera with Effects" window changes the pa
 * **For Brightness/Contrast:** Changes the Alpha/Beta values.
 * **For Grayscale:** Changes the interpolation factor (0 = Color, Max = Gray).
 
+### Demonstration
+https://youtu.be/zMeEJZ2KT-I
+
 Built with Python and OpenCV.
